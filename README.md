@@ -1,5 +1,7 @@
 ﻿# Car-Price-Prediction-model
 🚗 Car Price Prediction – A Machine Learning Approach
+
+
 📄 Project Overview
 In today’s dynamic automobile market, accurately predicting used car prices is crucial for both buyers and sellers. This project builds a machine learning model to predict the selling price of used cars using real-world attributes like brand, year, mileage, fuel type, transmission, owner type, and location.
 
